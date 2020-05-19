@@ -22,18 +22,25 @@ namespace ExploreCalifornia
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
+            services.AddMvc();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
         public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
 
-            app.UseExceptionHandler("/error.html");
+            // app.UseExceptionHandler("/error.html");
 
             if (configuration.GetValue<bool>("EnableDeveloperExceptions"))
             {
                 app.UseDeveloperExceptionPage();
             }
+            app.UseMvc(routes =>
+            {
+                routes.MapRoute("Default",
+                    "{controller=Home}/{action=Index}/{id:int?}"
+                );
+            });
             app.UseFileServer();
             /*
             app.Use(async (context, next) =>

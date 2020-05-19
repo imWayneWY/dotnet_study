@@ -16,3 +16,15 @@ D:\code\dotnet_study\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2
 D:\code\dotnet_study\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.dll
 D:\code\dotnet_study\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.pdb
 D:\code\dotnet_study\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.genruntimeconfig.cache
+D:\code\dotnet_study\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.2\ExploreCalifornia.Views.dll
+D:\code\dotnet_study\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.2\ExploreCalifornia.Views.pdb
+D:\code\dotnet_study\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.TagHelpers.input.cache
+D:\code\dotnet_study\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.TagHelpers.output.cache
+D:\code\dotnet_study\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.RazorCoreGenerate.cache
+D:\code\dotnet_study\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\Razor\Views\Home\index.cshtml.g.cs
+D:\code\dotnet_study\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.RazorTargetAssemblyInfo.cs
+D:\code\dotnet_study\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.Views.pdb
+D:\code\dotnet_study\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.csproj.CopyComplete
+D:\code\dotnet_study\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\Razor\Views\Blog\Index.cshtml.g.cs
+D:\code\dotnet_study\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
+D:\code\dotnet_study\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\Razor\Views\Blog\Post.cshtml.g.cs
