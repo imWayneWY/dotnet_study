@@ -6,7 +6,6 @@ D:\code\dotnet_study\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.2
 D:\code\dotnet_study\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.2\ExploreCalifornia.runtimeconfig.dev.json
 D:\code\dotnet_study\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.2\ExploreCalifornia.dll
 D:\code\dotnet_study\ExploreCalifornia\ExploreCalifornia\bin\Debug\netcoreapp2.2\ExploreCalifornia.pdb
-D:\code\dotnet_study\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.csprojAssemblyReference.cache
 D:\code\dotnet_study\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.csproj.CoreCompileInputs.cache
 D:\code\dotnet_study\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.RazorAssemblyInfo.cache
 D:\code\dotnet_study\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.RazorAssemblyInfo.cs
@@ -28,3 +27,5 @@ D:\code\dotnet_study\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2
 D:\code\dotnet_study\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\Razor\Views\Blog\Index.cshtml.g.cs
 D:\code\dotnet_study\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\Razor\Views\Shared\_Layout.cshtml.g.cs
 D:\code\dotnet_study\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\Razor\Views\Blog\Post.cshtml.g.cs
+D:\code\dotnet_study\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\Razor\Views\Blog\Create.cshtml.g.cs
+D:\code\dotnet_study\ExploreCalifornia\ExploreCalifornia\obj\Debug\netcoreapp2.2\ExploreCalifornia.csprojAssemblyReference.cache

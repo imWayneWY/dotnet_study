@@ -31,10 +31,10 @@ namespace ExploreCalifornia
 
             // app.UseExceptionHandler("/error.html");
 
-            if (configuration.GetValue<bool>("EnableDeveloperExceptions"))
-            {
+            //if (configuration.GetValue<bool>("EnableDeveloperExceptions"))
+            //{
                 app.UseDeveloperExceptionPage();
-            }
+            //}
             app.UseMvc(routes =>
             {
                 routes.MapRoute("Default",
