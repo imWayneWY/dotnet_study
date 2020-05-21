@@ -7,7 +7,6 @@ D:\code\dotnet_study\LandoApi\LandoApi\bin\Debug\netcoreapp2.1\LandoApi.runtimec
 D:\code\dotnet_study\LandoApi\LandoApi\bin\Debug\netcoreapp2.1\LandoApi.dll
 D:\code\dotnet_study\LandoApi\LandoApi\bin\Debug\netcoreapp2.1\LandoApi.pdb
 D:\code\dotnet_study\LandoApi\LandoApi\obj\Debug\netcoreapp2.1\LandoApi.csprojAssemblyReference.cache
-D:\code\dotnet_study\LandoApi\LandoApi\obj\Debug\netcoreapp2.1\LandoApi.csproj.CoreCompileInputs.cache
 D:\code\dotnet_study\LandoApi\LandoApi\obj\Debug\netcoreapp2.1\LandoApi.RazorAssemblyInfo.cache
 D:\code\dotnet_study\LandoApi\LandoApi\obj\Debug\netcoreapp2.1\LandoApi.RazorAssemblyInfo.cs
 D:\code\dotnet_study\LandoApi\LandoApi\obj\Debug\netcoreapp2.1\LandoApi.AssemblyInfoInputs.cache
@@ -16,3 +15,4 @@ D:\code\dotnet_study\LandoApi\LandoApi\obj\Debug\netcoreapp2.1\LandoApi.RazorTar
 D:\code\dotnet_study\LandoApi\LandoApi\obj\Debug\netcoreapp2.1\LandoApi.dll
 D:\code\dotnet_study\LandoApi\LandoApi\obj\Debug\netcoreapp2.1\LandoApi.pdb
 D:\code\dotnet_study\LandoApi\LandoApi\obj\Debug\netcoreapp2.1\LandoApi.genruntimeconfig.cache
+D:\code\dotnet_study\LandoApi\LandoApi\obj\Debug\netcoreapp2.1\LandoApi.csproj.CoreCompileInputs.cache
