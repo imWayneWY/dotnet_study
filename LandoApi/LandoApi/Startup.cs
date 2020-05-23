@@ -9,6 +9,7 @@ using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.HttpsPolicy;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.Versioning;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
@@ -31,6 +32,12 @@ namespace LandoApi
         {
             services.Configure<HotelInfo>(
                 Configuration.GetSection("Info"));
+
+            // Use in-memory database for quick dev and testing
+            // TODO: Swap out for a real database in production
+            services.AddDbContext<HotelApiDbContext>(
+                options => options.UseInMemoryDatabase("landondb"));
+
             services
                 .AddMvc(options => 
                 {
