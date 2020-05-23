@@ -20,6 +20,11 @@ namespace LandoApi.Controllers
                 rooms = new
                 {
                     href = Url.Link(nameof(RoomController.GetRooms), null)
+                },
+                info = new
+                {
+                    href = Url.Link(
+                        nameof(InfoController.GetInfo), null)
                 }
             };
             return Ok(response);

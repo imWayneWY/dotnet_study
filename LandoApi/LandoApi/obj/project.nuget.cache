@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "rJRp0TPKqeWi/zJZLBBQsoXMiwpx97WHnLPDatClTgIWf0r4cbMSNtp51jquApXhXnLXlQq99z88F1pMmSZGFQ==",
+  "dgSpecHash": "2/lKqNJHsLNJFN2ZhlSNygOw9CLHJ5ODN8onuvGGgZKAlCxaowHftTeCqGkUMhJKwOxl7S+5FAMwRALw54iCoQ==",
   "success": true,
   "projectFilePath": "D:\\code\\dotnet_study\\LandoApi\\LandoApi\\LandoApi.csproj",
   "expectedPackageFiles": [
@@ -68,6 +68,7 @@
     "C:\\Users\\Weiyan\\.nuget\\packages\\microsoft.aspnetcore.mvc.razor.viewcompilation\\2.1.1\\microsoft.aspnetcore.mvc.razor.viewcompilation.2.1.1.nupkg.sha512",
     "C:\\Users\\Weiyan\\.nuget\\packages\\microsoft.aspnetcore.mvc.razorpages\\2.1.1\\microsoft.aspnetcore.mvc.razorpages.2.1.1.nupkg.sha512",
     "C:\\Users\\Weiyan\\.nuget\\packages\\microsoft.aspnetcore.mvc.taghelpers\\2.1.1\\microsoft.aspnetcore.mvc.taghelpers.2.1.1.nupkg.sha512",
+    "C:\\Users\\Weiyan\\.nuget\\packages\\microsoft.aspnetcore.mvc.versioning\\2.3.0\\microsoft.aspnetcore.mvc.versioning.2.3.0.nupkg.sha512",
     "C:\\Users\\Weiyan\\.nuget\\packages\\microsoft.aspnetcore.mvc.viewfeatures\\2.1.1\\microsoft.aspnetcore.mvc.viewfeatures.2.1.1.nupkg.sha512",
     "C:\\Users\\Weiyan\\.nuget\\packages\\microsoft.aspnetcore.nodeservices\\2.1.1\\microsoft.aspnetcore.nodeservices.2.1.1.nupkg.sha512",
     "C:\\Users\\Weiyan\\.nuget\\packages\\microsoft.aspnetcore.owin\\2.1.1\\microsoft.aspnetcore.owin.2.1.1.nupkg.sha512",
