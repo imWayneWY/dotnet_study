@@ -1,4 +1,5 @@
 ﻿using LandoApi.Models;
+using LandoApi.Services;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.EntityFrameworkCore;
 using System;
@@ -12,10 +13,11 @@ namespace LandoApi.Controllers
     [ApiController]
     public class RoomController : ControllerBase
     {
-        private readonly HotelApiDbContext _context;
-        public RoomController(HotelApiDbContext context)
+        // private readonly HotelApiDbContext _context;
+        private readonly IRoomService _roomService;
+        public RoomController(IRoomService roomService)
         {
-            _context = context;
+            _roomService = roomService;
         }
         [HttpGet(Name = nameof(GetRooms))]
         public IActionResult GetRooms()
@@ -27,19 +29,10 @@ namespace LandoApi.Controllers
         [ProducesResponseType(404)]
         public async Task<ActionResult<Room>> GetRoomById(Guid roomId)
         {
-            var entity = await _context.Rooms
-                .SingleOrDefaultAsync(x => x.Id == roomId);
-            if (entity == null)
-            {
-                return NotFound();
-            }
-            var resource = new Room
-            {
-                Href = Url.Link(nameof(GetRoomById), new { roomId = entity.Id }),
-                Name = entity.Name,
-                Rate = entity.Rate / 100.0m
-            };
-            return resource;
+            var room = await _roomService.GetRoomAsync(roomId);
+            if (room == null) return NotFound();
+
+            return room;
         }
     }
 }
